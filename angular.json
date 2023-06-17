@@ -25,6 +25,7 @@
               "src/assets"
             ],
             "styles": [
+              "/home/juliano/JavaScript/apiAngular/node_modules/bootstrap/dist/css/bootstrap.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -94,5 +95,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "7d68626b-e70a-4628-b83d-ac855e36902e"
   }
 }
